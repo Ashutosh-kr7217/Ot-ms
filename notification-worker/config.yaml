@@ -1,0 +1,13 @@
+---
+smtp:
+  from: "deepakkushwaha7523@gmail.com"
+  username: "deepakkushwaha7523@gmail.com"
+  password: "wltf xioj wqqk qsvh"
+  smtp_server: "smtp.gmail.com"
+  smtp_port: "587"
+
+elasticsearch:
+  username: "elastic"
+  password: "elastic"
+  host: "localhost"
+  port: 9200
